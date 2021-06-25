@@ -1,8 +1,3 @@
-<style>
-
-@import  url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300&display=swap');
-
-</style>
 
 ![version : 24/06/2021](https://img.shields.io/badge/version-21.06.2021-informational)  &nbsp;
 
