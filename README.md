@@ -15,7 +15,7 @@
 
   
 <div align="center">
-<p  style="font-size: 20px; font-family: 'Noto Sans TC', sans-serif; margin: 10px 0">
+<p  font-size="30px">
 
 I'm Alan, a front-end developer based in Campo Grande - MS.
 
