@@ -3,17 +3,7 @@
 
 [![GitHub](https://img.shields.io/github/followers/offpepe?label=follow&style=social)](https://github.com/michellehorn)&nbsp;
 
-  
 
-<div  align="center">
-
-<img  src="./public/medraw.png"  width= "200px" >
-
-</div>
-
-  
-
----
 
 <div  style="display: flex; align-items: center" >
 
