@@ -7,7 +7,7 @@
 
 <div  align="center">
 
-<img  src="./public/medraw.png"  style="width: 200px; border-radius: 50%">
+<img  src="./public/medraw.png"  width= "200px" >
 
 </div>
 
