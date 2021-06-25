@@ -5,22 +5,23 @@
 
 
 
-<div  style="display: flex; align-items: center" >
+<div align="center" style="display: flex; align-items: center" >
 
-<img  src="./public/hi-there.gif"  style="width: 80px">|
+<img  src="./public/hi-there.gif" style="width: 80px">
 
-<h2  style="font-weight: bold"> Hi there!</h2>
+<h3  style="font-weight: bold"> Hi there!</h3>
 
 </div>
 
   
-
+<div align="center">
 <p  style="font-size: 20px; font-family: 'Noto Sans TC', sans-serif; margin: 10px 0">
 
 I'm Alan, a front-end developer based in Campo Grande - MS.
 
 </p>
-
+</div>
+	
 <h2  style="font-weight: bold">🛠️ Tech Stack</h2>
 
   
