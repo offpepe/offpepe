@@ -74,8 +74,6 @@ I'm Alan, a front-end developer based in Campo Grande - MS.
 
   
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=offpepe&theme=react-dark)
-
 </div>
 
 ---
