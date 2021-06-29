@@ -9,18 +9,13 @@
 
 <img  src="./public/hi-there.gif" style="width: 80px">
 
-<h3  style="font-weight: bold"> Hi there!</h3>
-
 </div>
 
-  
-<div align="center">
-<p  font-size="30px">
+## Hi there! 👋
 
-I'm Alan, a front-end developer based in Campo Grande - MS.
-
-</p>
-</div>
+- ##### I'm Alan, a front-end developer based in Campo Grande - MS.
+- ##### cats lover 🐱‍💻
+- ##### Mage Dev 🧙
 	
 <h2  style="font-weight: bold">🛠️ Tech Stack</h2>
 
