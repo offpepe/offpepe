@@ -15,7 +15,7 @@
 
 - ##### I'm Alan, a front-end developer based in Campo Grande - MS.
 - ##### cats lover 🐱‍💻
-- ##### Mage Dev 🧙
+- ##### [Mage](https://twitter.com/magelibORG) [Dev](https://github.com/isabellaherman/MageLib) [🧙](https://www.twitch.tv/isabellaherman)
 	
 <h2  style="font-weight: bold">🛠️ Tech Stack</h2>
 
