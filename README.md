@@ -1,5 +1,5 @@
 
-![version : 08/07/2021](https://img.shields.io/badge/version-08.07.2021-informational)  &nbsp;
+![version : 02/09/2021](https://img.shields.io/badge/version-02.09.2021-informational)  &nbsp;
 
 [![GitHub](https://img.shields.io/github/followers/offpepe?label=follow&style=social)](https://github.com/offpepe)&nbsp;
 
@@ -14,8 +14,9 @@
 ## Hi there! 👋
 
 - ##### I'm Alan, a front-end developer based in Campo Grande - MS.
-- ##### cats lover 🐱‍💻
-- ##### [Mage](https://twitter.com/magelibORG) [Dev](https://github.com/isabellaherman/MageLib) [🧙](https://www.twitch.tv/isabellaherman)
+- ##### cat lover 🐱‍💻
+- ##### currently learning mongodb and nodejs 👨‍💻
+<!-- - ##### [Mage](https://twitter.com/magelibORG) [Dev](https://github.com/isabellaherman/MageLib) [🧙](https://www.twitch.tv/isabellaherman) -->
 	
 <h2  style="font-weight: bold">🛠️ Tech Stack</h2>
 
@@ -29,19 +30,25 @@
 
   
 
--  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
--  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+-  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 
--  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
--  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=1572B6)&nbsp;
+-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
--  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
--  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
--  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+-  ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+
+-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
+-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+	
+- ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 
   
 
@@ -74,10 +81,10 @@
 ---
 <h2  style="font-weight: bold">Where to find me</h2>
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222?style=flat&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/alan-albuquerque-f-lopes-aa404b206/)&nbsp;
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanalbuquerq/)&nbsp;
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222?style=flat&logo=Twitter&logoColor=1DA1F2)](https://twitter.com/Offplayer_G)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Offplayer_G)&nbsp;
 
-[![Email](https://img.shields.io/badge/-Gmail-222?style=flat&logo=Gmail&logoColor=EA4335)](https://alan.alb.flopes@gmail.com)&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://alan.alb.flopes@gmail.com)&nbsp;
 
 [![Website](https://img.shields.io/badge/Portfolio-%F0%9F%94%97-1DA1F2)](https://offpepe.github.io/portfolio/)&nbsp;
