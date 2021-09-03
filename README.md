@@ -5,9 +5,9 @@
 
 
 
-<div align="center" style="display: flex; align-items: center" >
+<div align="center">
 
-<img  src="./public/hi-there.gif" style="width: 80px">
+<img  src="./public/hi-there.gif" style="width: 200px">
 
 </div>
 
