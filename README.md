@@ -1,5 +1,5 @@
 
-![version : 02/09/2021](https://img.shields.io/badge/version-02.09.2021-informational)  &nbsp;
+![version : 25/10/2021](https://img.shields.io/badge/version-25.10.2021-informational)  &nbsp;
 
 [![GitHub](https://img.shields.io/github/followers/offpepe?label=follow&style=social)](https://github.com/offpepe)&nbsp;
 
@@ -15,7 +15,7 @@
 
 - ##### I'm Alan, a front-end developer based in Campo Grande - MS.
 - ##### cat lover 🐱‍💻
-- ##### currently learning mongodb and nodejs 👨‍💻
+- ##### currently learning SOLID and Sockets👨‍💻
 <!-- - ##### [Mage](https://twitter.com/magelibORG) [Dev](https://github.com/isabellaherman/MageLib) [🧙](https://www.twitch.tv/isabellaherman) -->
 	
 <h2  style="font-weight: bold">🛠️ Tech Stack</h2>
