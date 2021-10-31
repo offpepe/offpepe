@@ -13,7 +13,7 @@
 
 ## Hi there! 👋
 
-- ##### I'm Alan, a front-end developer based in Campo Grande - MS.
+- ##### I'm Alan, a full stack developer based in Campo Grande - MS.
 - ##### cat lover 🐱‍💻
 - ##### currently learning SOLID and Sockets👨‍💻
 - ##### You can find more about my work in my [portfolio](https://offpepe.github.io/portfolio/)
