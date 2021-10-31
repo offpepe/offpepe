@@ -16,7 +16,7 @@
 - ##### I'm Alan, a front-end developer based in Campo Grande - MS.
 - ##### cat lover 🐱‍💻
 - ##### currently learning SOLID and Sockets👨‍💻
-- ##### You can find more about my work here, in my [portfolio](https://offpepe.github.io/portfolio/)
+- ##### You can find more about my work in my [portfolio](https://offpepe.github.io/portfolio/)
 <!-- - ##### [Mage](https://twitter.com/magelibORG) [Dev](https://github.com/isabellaherman/MageLib) [🧙](https://www.twitch.tv/isabellaherman) -->
 	
 <h2  style="font-weight: bold">🛠️ Tech Stack</h2>
