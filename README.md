@@ -14,7 +14,7 @@
 
 - ##### I'm Alan, full stack developer at [Meta](https://www.meta.com.br/) based in Campo Grande - MS.
 - ##### cat lover 🐱‍💻
-- ##### currently learning NLP, .NET core, AWS Lambda
+- ##### currently learning NLP, Spacy, AWS RDS
 - ##### You can find more about my work in my [portfolio](https://offpepe.github.io/portfolio/)
 <!-- - ##### [Mage](https://twitter.com/magelibORG) [Dev](https://github.com/isabellaherman/MageLib) [🧙](https://www.twitch.tv/isabellaherman) -->
 	
