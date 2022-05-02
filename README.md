@@ -1,5 +1,5 @@
 
-![version](https://img.shields.io/badge/version-25.03.2022-informational)  &nbsp;
+![version](https://img.shields.io/badge/version-02.05.2022-informational)  &nbsp;
 [![GitHub](https://img.shields.io/github/followers/offpepe?label=follow&style=social)](https://github.com/offpepe)&nbsp;
 
 
@@ -14,9 +14,10 @@
 
 - ##### I'm Alan, full stack developer at [Meta](https://www.meta.com.br/) based in Campo Grande - MS.
 - ##### cat lover 🐱‍💻
-- ##### currently learning NLP, Spacy, AWS RDS
+- ##### currently learning NLP, Spacy and CI/CD
+- ##### [He4rt Developer 💙](https://heartdevs.com/)
 - ##### You can find more about my work in my [portfolio](https://offpepe.github.io/portfolio/)
-<!-- - ##### [Mage](https://twitter.com/magelibORG) [Dev](https://github.com/isabellaherman/MageLib) [🧙](https://www.twitch.tv/isabellaherman) -->
+
 	
 <h2  style="font-weight: bold">🛠️ Tech Stack</h2>
 
