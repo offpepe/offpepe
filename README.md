@@ -6,7 +6,11 @@
 
 <div align="center">
 
-<img  src="./public/hi-there.gif" style="width: 200px">
+<img 
+	alt="spooky"
+	src="https://c.tenor.com/MezmeiCsQ-8AAAAC/skeleton-dance-fast.gif"
+	style="width: 200px"
+	>
 
 </div>
 
