@@ -18,7 +18,7 @@
 
 - ##### I'm Alan, full stack developer at [Meta](https://www.meta.com.br/) based in Campo Grande - MS.
 - ##### cat lover 🐱‍💻
-- ##### currently learning NLP, Spacy and CI/CD
+- ##### currently learning Arduino, Math-Phys and ScyllaDB
 - ##### [He4rt Developer 💙](https://heartdevs.com/)
 - ##### You can find more about my work in my [portfolio](https://offpepe.github.io/portfolio/)
 
