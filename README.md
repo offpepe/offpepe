@@ -20,6 +20,7 @@
 - ##### cat lover 🐱‍💻
 - ##### currently learning Arduino, Math-Phys and ScyllaDB
 - ##### [He4rt Developer 💙](https://heartdevs.com/)
+- ##### Member of AutoLab project at INFI ([UFMS Institute of Physics](https://infi.ufms.br/))
 - ##### You can find more about my work in my [portfolio](https://offpepe.github.io/portfolio/)
 
 	
