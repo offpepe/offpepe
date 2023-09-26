@@ -130,7 +130,11 @@
 
 </div>
 
-  
+## My progress on the 100 days of code (Portuguese only)
+
+<a href="https://100-dias-de-codigo-github-readme.vercel.app/?username=Offplayer_G">
+  <img src="https://100-dias-de-codigo-github-readme.vercel.app/?username=Offplayer_G" width="450" height="195" alt="Progresso 100 dias de codigo">
+</a>
 
 <div>
 
