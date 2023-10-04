@@ -6,11 +6,7 @@
 
 <div align="center">
 
-<img 
-	alt="spooky"
-	src="https://c.tenor.com/MezmeiCsQ-8AAAAC/skeleton-dance-fast.gif"
-	style="width: 200px"
-	>
+[![An image of @offpepe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/offpepe)](https://holopin.io/@offpepe)
 
 </div>
 
