@@ -6,7 +6,9 @@
 
 <div align="center">
 
-[![An image of @offpepe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/offpepe)](https://holopin.io/@offpepe)
+<a href="https://holopin.io/@offpepe">
+  <img src="https://holopin.me/offpepe" alt="@offpepe's Holopin badges">
+</a>
 
 </div>
 
