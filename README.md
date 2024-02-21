@@ -1,9 +1,4 @@
 
-![version](https://img.shields.io/badge/version-02.05.2022-informational)  &nbsp;
-[![GitHub](https://img.shields.io/github/followers/offpepe?label=follow&style=social)](https://github.com/offpepe)&nbsp;
-
-
-
 <div align="center">
 
 <a href="https://holopin.io/@offpepe">
@@ -14,12 +9,8 @@
 
 ## Hi there! 👋
 
-- ##### I'm Alan, full stack developer at [Meta](https://www.meta.com.br/) based in Campo Grande - MS.
-- ##### cat lover 🐱‍💻
-- ##### currently learning Arduino, Math-Phys and ScyllaDB
-- ##### [He4rt Developer 💙](https://heartdevs.com/)
-- ##### Member of AutoLab project at INFI ([UFMS Institute of Physics](https://infi.ufms.br/))
-- ##### You can find more about my work in my [portfolio](https://offpepe.github.io/portfolio/)
+I'm Alan, full stack developer at [Meta](https://www.meta.com.br/) based in Campo Grande - MS.\
+I like cats and cake, also i like to code.
 
 	
 <h2  style="font-weight: bold">🛠️ Tech Stack</h2>
