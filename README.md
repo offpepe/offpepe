@@ -127,15 +127,6 @@ I like cats and cake, also i like to code.
 
 <div>
 
-<h2  style="font-weight: bold">&#x1f4c8; Github stats</h2>
-
-  
-
-<p><img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=offpepe&theme=tokyonight" /></p>
-
-  
-
-</div>
 
 ---
 <h2  style="font-weight: bold">Where to find me</h2>
